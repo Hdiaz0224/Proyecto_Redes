@@ -43,7 +43,7 @@ E. R. Pérez Tardío, "Evaluación de desempeño de las redes SDN mediante la ap
 
 P. Alcivar y M. Navia, "Comparativa entre red tradicional y red definida por software: Caso de estudio ESPAM MFL", Revista Ibérica de Sist. e Tecnologias de Informação Iberian J. Inf. Syst. Technol., pp. 79–90, febrero de 2020.
 
-##Introduccion
+## Introduccion
 Para el desarrollo de este proyecto se nos dividio en 2 partes, la primera parte era realizar una revision bibliografica en la cual se iba a buscar informacion acerca de las SDN y a resolver las siguientes preguntas ¿Qué es SDN?¿Por qué es importante?¿Cómo funciona?¿Qué tipos existen? ¿Cuáles son las ventajas y limitaciones comparadoal paradigma tradicional de redes?.
 
 La segunda parte del proyecto es plantear una red empresarial utilizando el paradigma de SDN, implementarla y emularla en la herramienta de SDN Mininet. Para finalmente, validar  el  funcionamiento  de  la  red empresarial utilizando comandos tales como iperfypingall
