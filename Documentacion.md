@@ -43,3 +43,25 @@ E. R. Pérez Tardío, "Evaluación de desempeño de las redes SDN mediante la ap
 
 P. Alcivar y M. Navia, "Comparativa entre red tradicional y red definida por software: Caso de estudio ESPAM MFL", Revista Ibérica de Sist. e Tecnologias de Informação Iberian J. Inf. Syst. Technol., pp. 79–90, febrero de 2020.
 
+##Introduccion
+Para el desarrollo de este proyecto se nos dividio en 2 partes, la primera parte era realizar una revision bibliografica en la cual se iba a buscar informacion acerca de las SDN y a resolver las siguientes preguntas ¿Qué es SDN?¿Por qué es importante?¿Cómo funciona?¿Qué tipos existen? ¿Cuáles son las ventajas y limitaciones comparadoal paradigma tradicional de redes?.
+
+La segunda parte del proyecto es plantear una red empresarial utilizando el paradigma de SDN, implementarla y emularla en la herramienta de SDN Mininet. Para finalmente, validar  el  funcionamiento  de  la  red empresarial utilizando comandos tales como iperfypingall
+## Desarrollo
+Proceso de Mininet:
+1. Instalación
+La instalación de mininet se inicia teniendo en cuenta es el software de virtualización que se va a utilizar siendo en este caso el Oracle VM VirtualBox que es el software que ofrece Oracle para arquitecturas x86/amd64, siguiendo la instalación se ubica en donde esta ubicado la imagen de Mininet en Linux Ubuntu para luego realizar la instalación de manera automatica por parte de la VM.
+2. Uso
+Para usar la VM se realiza todo con comandos dentro del CLI, al ser Linux no hay una interfaz grafica como la de windows para un manejo sencillo, pero si se quiesiera se podria instalar, con el comando de cd (change directory) que se utiliza para cambiar el directorio especificando una ruta absoluta, siendo asi que se ubica dentro de la carpeta de mininet y luego la carpeta de examples para poder utilizar la herramienda de Miniedit y en donde adedmas se guardan las versiones del proyecto en .py y en .mn, siendo en .mn para poder editarlo en Miniedit y en .py para poder usarlo dentro del cli de mininet. Ademas se utilizó el comando de ls (Listar Archivos) para verificar que documentos estan dentro de las carpetas.
+3. Instalación PuTTY y XMING
+Como dentro de mininet no hay un software que soporte una interfaz grafica de edición como lo es Miniedit, se opto por usar dos aplicaciones externas las cuales son PuTTY que es un clientede SSH, Telnet, rlogin y TCP raw de licencia libre para poder comunicar Xming que es una implementación portatil del sistema de ventanas X para Windows y Mininet, la coneccion entre estos dos se hizo por medio del SSH permitiendo el uso de X11 y luego ingresando la direccion IPv4 de la VM para que asi PuTTY pudiese ejecutar sin problemas Miniedit.
+4. Implementación 
+Para realizar la topoliga del proyecto en principio se usó la herramienta de Miniedit, que los permite usar una interfaz grafica para realizar una topologia con diferentes dispositivos para realizar una red, usando el comando de sudo python miniedit.py donde sudo es el comando que se realiza para ejecutar programas y python para especificar el lenguaje que se esta utilizando dentro de la herramienta. Dentro de la topologia se tuvo en cuenta el proyecto 2 de un curso de la Universidad de Washington para realizar una red empresarial, la cual esta dividida en diferentes subredes y se comunican por un router que es manejado por un POX controller. Esta topologia se guarda en dos formatos, siendo el formato de .mn y .py, los comentados anteriormente para su libre edicion y ejecucion.
+5. Resultados
+Dentro del proyecto se realizaron 2 comandos principalmente, el comando pingall para verificar que todo este conectado y el comando iperf para verificar la velocidad entre 2 dispositivos resultando de manera exitosa la utilización de ambos comandos, como se puede evidenciar en las siguientes capturas:
+
+## Conclusiones
+
+## Retos
+
+## Referencias
