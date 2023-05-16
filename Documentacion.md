@@ -60,6 +60,12 @@ Para realizar la topoliga del proyecto en principio se usó la herramienta de Mi
 5. Resultados
 Dentro del proyecto se realizaron 2 comandos principalmente, el comando pingall para verificar que todo este conectado y el comando iperf para verificar la velocidad entre 2 dispositivos resultando de manera exitosa la utilización de ambos comandos, como se puede evidenciar en las siguientes capturas:
 
+![image](https://github.com/Hdiaz0224/Proyecto_Redes/assets/93561095/f4f55323-ac37-4a78-98ec-3cd95671dc75)
+![image](https://github.com/Hdiaz0224/Proyecto_Redes/assets/93561095/83ebed65-9fe4-4a73-8640-6ea0e5495d5d)
+![image](https://github.com/Hdiaz0224/Proyecto_Redes/assets/93561095/64e20d3a-6fff-487f-a128-bf9e555d4a5e)
+![image](https://github.com/Hdiaz0224/Proyecto_Redes/assets/93561095/ff5e9623-f3cb-42c4-b47f-0037fbca7ce8)
+
+
 ## Conclusiones
 
 ## Retos
