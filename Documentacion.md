@@ -30,9 +30,16 @@ Sin embargo, también hay limitaciones para tener en cuenta:
                                Fuente [2]
 
 En conclusión, aunque las redes definidas por software presentan muchas ventajas, también es importante tener en cuenta sus limitaciones antes de tomar la decisión de implementarlas en una red.
+
 Referencias
+
 G. Mocha Guacho y J. Celleri Pacheco, "Análisis Comparativo de Protocolos de Comunicación para Redes definidas por Software", HAMUT'AY, vol. 7, n.º 3, p. 39, enero de 2021. Accedido el 08 de mayo de 2023. [En línea]. Disponible: https://doi.org/10.21503/hamu.v7i3.2190
+
 L. M. Amaya Fariño, J. F. Arroyo Pizarro, M. Jaramillo Infante, A. R. Tumbaco Reyes y B. M. Mendoza Morán, "SDN Redes definidas por Software usando MiniNet", Revista Científica y Tecnológica UPSE, vol. 9, n.º 1, pp. 48–56, junio de 2022. Accedido el 08 de mayo de 2023. [En línea]. Disponible: https://doi.org/10.26423/rctu.v9i1.489
+
 M. Á. Barrera Pérez, N. Y. Serrato Losada, E. Rojas Sánchez y G. Mancilla Gaona, "State of the art in software defined networking (SDN)", Visión electrónica, vol. 13, n.º 1, pp. 178–194, enero de 2019. Accedido el 08 de mayo de 2023. [En línea]. Disponible: https://doi.org/10.14483/22484728.14424
+
 E. R. Pérez Tardío, "Evaluación de desempeño de las redes SDN mediante la aplicación de mecanismos de calidad de servicio definidos para redes IP", Tesis de grado, Universidad Central "Marta Abreu" de Las Villas, Villa Clara, 2019.
+
 P. Alcivar y M. Navia, "Comparativa entre red tradicional y red definida por software: Caso de estudio ESPAM MFL", Revista Ibérica de Sist. e Tecnologias de Informação Iberian J. Inf. Syst. Technol., pp. 79–90, febrero de 2020.
+
