@@ -71,3 +71,4 @@ Dentro del proyecto se realizaron 2 comandos principalmente, el comando pingall 
 ## Retos
 
 ## Referencias
+https://www.youtube.com/watch?v=3VY7KMPmEVo&list=PLbu9W4c-C0iDdltGXLGKv8KvfJQg1c8_7&index=3
