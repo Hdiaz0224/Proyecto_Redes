@@ -94,3 +94,7 @@ https://www.youtube.com/watch?v=3VY7KMPmEVo&list=PLbu9W4c-C0iDdltGXLGKv8KvfJQg1c
 
 ## Video 
 https://youtu.be/J4FBcVUdiXI
+
+## Bitacora 
+[Bitacora de reuniones grupo #6 proyecto final.pdf](https://github.com/Hdiaz0224/Proyecto_Redes/files/11493261/Bitacora.de.reuniones.grupo.6.proyecto.final.pdf)
+
