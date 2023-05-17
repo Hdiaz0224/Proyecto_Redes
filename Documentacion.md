@@ -97,4 +97,3 @@ https://youtu.be/J4FBcVUdiXI
 
 ## Bitacora 
 [Bitacora de reuniones grupo #6 proyecto final.pdf](https://github.com/Hdiaz0224/Proyecto_Redes/files/11493261/Bitacora.de.reuniones.grupo.6.proyecto.final.pdf)
-
