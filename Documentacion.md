@@ -72,8 +72,9 @@ Dentro del proyecto se realizaron 2 comandos principalmente, el comando pingall 
 
 
 ## Conclusiones
-
+Pudimos concluir que tanto el manejo y configuracion de Mininet y Miniedit son complicados pero realmente dejan ver la practica de como es una SDN, asi como, lo esencial de una SDN y como se diferencia del paradigma tradicional de redes
 ## Retos
+Los principales retos de este proyecto fueron encontrar fuentes de informacion en Ingles o en Español ya que al momento de buscar muchas de estas aparecian en Portugues, idioma que ninguno del grupo maneja, y tambien toda la configuracion de Mininet.
 
 ## Referencias
 https://www.youtube.com/watch?v=3VY7KMPmEVo&list=PLbu9W4c-C0iDdltGXLGKv8KvfJQg1c8_7&index=3
