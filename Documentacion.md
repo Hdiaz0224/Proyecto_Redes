@@ -74,15 +74,15 @@ Dentro del proyecto se realizaron 2 comandos principalmente, el comando pingall 
 ![image](https://github.com/Hdiaz0224/Proyecto_Redes/assets/93561095/d47d18ea-adfe-4e76-937a-977591284acb)
 
 ## Comandos necesarios para el proyecto
-cd mininet
-cd examples
-sudo python pfinal2.py
-sudo python pFinal2p.py
-sudo python miniedit.py
-pingall
-iperf
-10.0.5.10
-ifconfig
+cd mininet // 
+cd examples //
+sudo python pfinal2.py // 
+sudo python pFinal2p.py //
+sudo python miniedit.py //
+pingall //
+iperf //
+10.0.5.10 //
+ifconfig //
 
 ## Conclusiones
 Pudimos concluir que tanto el manejo y configuracion de Mininet y Miniedit son complicados pero realmente dejan ver la practica de como es una SDN, asi como, lo esencial de una SDN y como se diferencia del paradigma tradicional de redes
