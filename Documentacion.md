@@ -69,7 +69,20 @@ Dentro del proyecto se realizaron 2 comandos principalmente, el comando pingall 
 ![image](https://github.com/Hdiaz0224/Proyecto_Redes/assets/93561095/83ebed65-9fe4-4a73-8640-6ea0e5495d5d)
 ![image](https://github.com/Hdiaz0224/Proyecto_Redes/assets/93561095/64e20d3a-6fff-487f-a128-bf9e555d4a5e)
 ![image](https://github.com/Hdiaz0224/Proyecto_Redes/assets/93561095/ff5e9623-f3cb-42c4-b47f-0037fbca7ce8)
+![image](https://github.com/Hdiaz0224/Proyecto_Redes/assets/93561095/1d11c13f-0fed-445b-9a1f-e3ad328fd351)
+![image](https://github.com/Hdiaz0224/Proyecto_Redes/assets/93561095/05345d30-d7ff-4305-8716-3f286ed82f1c)
+![image](https://github.com/Hdiaz0224/Proyecto_Redes/assets/93561095/d47d18ea-adfe-4e76-937a-977591284acb)
 
+## Comandos necesarios para el proyecto
+cd mininet
+cd examples
+sudo python pfinal2.py
+sudo python pFinal2p.py
+sudo python miniedit.py
+pingall
+iperf
+10.0.5.10
+ifconfig
 
 ## Conclusiones
 Pudimos concluir que tanto el manejo y configuracion de Mininet y Miniedit son complicados pero realmente dejan ver la practica de como es una SDN, asi como, lo esencial de una SDN y como se diferencia del paradigma tradicional de redes
@@ -78,3 +91,6 @@ Los principales retos de este proyecto fueron encontrar fuentes de informacion e
 
 ## Referencias
 https://www.youtube.com/watch?v=3VY7KMPmEVo&list=PLbu9W4c-C0iDdltGXLGKv8KvfJQg1c8_7&index=3
+
+## Video 
+https://youtu.be/J4FBcVUdiXI
